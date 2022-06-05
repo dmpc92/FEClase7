@@ -1,0 +1,50 @@
+.logob{
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;
+    z-index: 950;}
+
+header{
+    position: absolute;
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+    background: #E6E6E6;}
+
+
+h3{ color:#005677;
+    background-color: #C4C4C4 }
+
+h1{ color:#005677;
+    background: #C4C4C4; 
+    margin-bottom: 150px;
+    margin-top: 185px;}
+
+    .boldi{
+        font-weight: bold;
+        font-style: italic;
+        font-size: 15px;}
+
+    .bold{ font-weight: bold;
+        font-style:normal;
+        font-size: 15px;}
+
+    .txt{
+        text-indent: 70px;}
+
+
+footer {
+    background: #005677;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    top: 987px; }
+
